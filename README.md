@@ -18,3 +18,7 @@
 
 若你在 gitbook 网页端更新，github 仓库也会同时更新。
 
+[openmindCard · GitBook](https://www.gitbook.com/book/wzxfrank/openmindcard/details)
+
+[Gitbook 集成GitHub · Gitbook使用教程](http://caibaojian.com/gitbook/github/)
+
